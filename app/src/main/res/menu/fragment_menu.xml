@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu1"
+        android:icon="@drawable/jia"
+        android:title="添" />
+    <item android:id="@+id/menu2"
+        android:icon="@drawable/jian"
+        android:title="减"/>
+</menu>
